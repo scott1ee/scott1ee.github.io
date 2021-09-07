@@ -1,0 +1,37 @@
+* {
+    background-color: #1D1C43;
+    font-family: 'Mukta', sans-serif;
+    color: white;
+}
+
+.bar ul {
+    list-style: none;
+    text-align: right;
+}
+
+.bar li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.min-bar h3 {
+    font-size: 22px;
+    text-align: left;
+    margin-top: -67px;
+}
+
+.min-bar hr {
+    opacity: 50%;
+}
+
+.presentacion {
+    font-size: 15px;
+    text-align: center;
+    align-items: center;
+}
+
+.images img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
